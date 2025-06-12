@@ -17,7 +17,7 @@ Wallet UI is a beautifully designed mobile application template that showcases a
 
 ## Screenshots
 
-*[Add screenshots of your application here]*
+![Wallet UI Screenshot](https://i.ibb.co/Xnqvv50/Screenshot-2025-06-12-195019.png)
 
 ## Card Features
 
@@ -88,11 +88,5 @@ You can easily customize this UI by:
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues to improve the UI.
-
-## License
-
-[Add your license information here]
-
----
 
 Created with ❤️ using Flutter
